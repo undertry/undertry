@@ -17,7 +17,7 @@ Currently, I am configuring my environment in 🐧 <b>NixOS</b> with 🌍 <b>Hyp
 <h2 align="left">🛠️ Tech Stack</h2> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,flask,linux,bash,kali,nix,vim" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,mysql,git,flask,linux,bash,kali,nix,vim" />
 </div>
 
 <h2 align="left">📊 GitHub Stats</h2>
