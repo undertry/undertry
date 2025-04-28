@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img align="center" width="1000" src="/wallpapers/fire.jpg" alt="BANNER JPG" style="width:auto; height:400px">
+  <img align="center" width="1000" src="/wallpapers/wallhaven-3lx32v.jpg" alt="BANNER JPG" style="width:auto; height:400px">
   <h1 align="cenger">👋 Hi, I'm Tiago Comba</h1>
   <h3 align="center">🌐 Ethical Hacker & Frontend Developer</h3>
   
